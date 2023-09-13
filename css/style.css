@@ -1,9 +1,9 @@
 .wrapper {
-    width: 1280px;
+    width: 1200px;
 }
 
 html {
-    font-family: Nunito;
+    font-family: 'Nunito', sans-serif;
     color: #fff;
     line-height: 1.5;
     width: 1200px;
@@ -46,4 +46,54 @@ h4 {
     color: #fff;
     font-weight: normal;
     font-size: 1.25rem;
+}
+
+h5 {
+    font-weight: normal;
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+
+h2 {
+    font-size: 2rem;
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+
+a {
+    color:#fff;
+    text-decoration: none;
+}
+
+.wrapper {
+    background-color: #7251B5;
+    display: block;
+    width: 1200px;
+}
+
+.wrapper .text {
+    padding-left: 5rem;
+    padding-top: 4rem;
+
+}
+
+.logo {
+    width: 1200px;
+}
+
+.favourites {
+    background-color: #000;
+}
+
+.team {
+    background-color: #7251B5;
+}
+
+footer {
+    text-align: center;
+    background-color: #000;
+    line-height: 40px;
 }

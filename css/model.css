@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Nunito', sans-serif;
+    line-height: 1.5;
+    /* color: #fff; */
+}
+
+.wrapper {
+    max-width: 1200px;
+}

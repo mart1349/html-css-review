@@ -90,9 +90,8 @@ nav ul li a:focus {
 #fan-fav ol {
     list-style-type: none;
     padding-left: 0;
-
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 }
 
 #fan-fav ol li {
@@ -143,5 +142,5 @@ nav ul li a:focus {
 footer {
     background-color: #000;
     text-align: center;
-
+    padding: 1em 0;
 }
